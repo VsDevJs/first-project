@@ -3,3 +3,8 @@
     padding:0px;
     font-size:10px;
 }
+
+main{
+    font-size:1000px;
+    content:'content';
+}
